@@ -30,14 +30,14 @@ import Experience from './experience';
                      startYear={2012}
                     endYear={2013}
                     schoolName="Punjab Technical University,India"
-                    schoolDescription="Poat Graduate diploma in Web Developement"
+                    schoolDescription="Post Graduate Diploma in Web Development"
                    
                     />
                    <Education
                      startYear={2005}
                     endYear={2009}
                     schoolName="Punjab Technical University,India"
-                    schoolDescription="Bachelor of Technology in Mecahnical Engineering"
+                    schoolDescription="Bachelor of Technology in Mechanical Engineering"
                    
                     />
                     <hr style ={{borderTop:'3px solid purple'}}/>

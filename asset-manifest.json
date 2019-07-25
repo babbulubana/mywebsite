@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mywebsite/static/css/main.05c9279c.chunk.css",
+    "main.js": "/mywebsite/static/js/main.5fb1203a.chunk.js",
+    "main.js.map": "/mywebsite/static/js/main.5fb1203a.chunk.js.map",
+    "runtime~main.js": "/mywebsite/static/js/runtime~main.8e5ad122.js",
+    "runtime~main.js.map": "/mywebsite/static/js/runtime~main.8e5ad122.js.map",
+    "static/css/2.606264ab.chunk.css": "/mywebsite/static/css/2.606264ab.chunk.css",
+    "static/js/2.82a21dc8.chunk.js": "/mywebsite/static/js/2.82a21dc8.chunk.js",
+    "static/js/2.82a21dc8.chunk.js.map": "/mywebsite/static/js/2.82a21dc8.chunk.js.map",
+    "index.html": "/mywebsite/index.html",
+    "precache-manifest.a641b91891ce8e7d2833f0a58d48a82c.js": "/mywebsite/precache-manifest.a641b91891ce8e7d2833f0a58d48a82c.js",
+    "service-worker.js": "/mywebsite/service-worker.js",
+    "static/css/2.606264ab.chunk.css.map": "/mywebsite/static/css/2.606264ab.chunk.css.map",
+    "static/css/main.05c9279c.chunk.css.map": "/mywebsite/static/css/main.05c9279c.chunk.css.map",
+    "static/media/profile2.jpg": "/mywebsite/static/media/profile2.37cfc9a7.jpg",
+    "static/media/sea.jpeg": "/mywebsite/static/media/sea.8649ad1c.jpeg"
+  }
+}
